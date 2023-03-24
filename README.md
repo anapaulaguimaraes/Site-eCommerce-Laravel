@@ -1,9 +1,7 @@
 ## Site E-commerce Laravel
 
 
-
 Projeto de um site de E-commerce, utilizando:
-
 
 
 * Framework Laravel, versão 9.x
@@ -19,12 +17,12 @@ Projeto de um site de E-commerce, utilizando:
 * Banco de dados: MySql.
 
   
-
+  
 ### Página Produtos
 
 
 
-![Produtos](C:\Users\anapa\Documents\Documentos Ana Paula\GitHub\Site-eCommerce-Laravel\public\img\imagem projeto1.PNG)
+![Produtos](https://github.com/anapaulaguimaraes/Site-eCommerce-Laravel/blob/main/public/img/imagem%20projeto1.PNG)
 
 
 
@@ -32,6 +30,5 @@ Projeto de um site de E-commerce, utilizando:
 
 
 
-
-![Dashboard](C:\Users\anapa\Documents\Documentos Ana Paula\GitHub\Site-eCommerce-Laravel\public\img\imagem projeto2.PNG)
+![Dashboard](https://github.com/anapaulaguimaraes/Site-eCommerce-Laravel/blob/main/public/img/imagem%20projeto2.PNG)
 
