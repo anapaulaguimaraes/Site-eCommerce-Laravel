@@ -24,7 +24,7 @@ Projeto de um site de E-commerce, utilizando:
 
 
 
-![Produtos](C:\Users\anapa\Documents\Documentos Ana Paula\Programação\eCommerceLaravel\public\img\imagem projeto1.PNG)
+![Produtos](C:\Users\anapa\Documents\Documentos Ana Paula\GitHub\Site-eCommerce-Laravel\public\img\imagem projeto1.PNG)
 
 
 
@@ -33,5 +33,5 @@ Projeto de um site de E-commerce, utilizando:
 
 
 
-![Dashboard](C:\Users\anapa\Documents\Documentos Ana Paula\Programação\eCommerceLaravel\public\img\imagem projeto2.PNG)
+![Dashboard](C:\Users\anapa\Documents\Documentos Ana Paula\GitHub\Site-eCommerce-Laravel\public\img\imagem projeto2.PNG)
 
